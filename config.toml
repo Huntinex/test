@@ -1,4 +1,4 @@
 baseURL = 'https://huntinex.github.io/test/'
 languageCode = 'en-us'
-title = 'HuntineX\'s Blog'
+title = "HuntineX's Blog"
 theme = "ananke"
